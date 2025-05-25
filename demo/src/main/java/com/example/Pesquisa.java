@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Pesquisa {
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", "CAMINHO/DO/SEU/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\arthu\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 
         // Instanciando o Navegador
         WebDriver chrome = new ChromeDriver();
